@@ -7,4 +7,4 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ## Part 2: Update the Database
 The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. 
 ## Part 3: Exploratory Analysis
-has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
+Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
